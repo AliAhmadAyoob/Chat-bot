@@ -1,7 +1,6 @@
-# Chatbot
+# Chatbot GUI Code
 
-<details>
-<summary>🤖 Click to expand Chatbot Program</summary>
+    
 ```python
 import customtkinter as ctk
 import tkinter as tk
